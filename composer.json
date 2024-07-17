@@ -1,0 +1,17 @@
+{
+    "name": "dansilx/buscador-cursos",
+    "description": "Projeto que busca cursos em sites",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Dansilx\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dansilx",
+            "email": "danilosilveira@msn.com"
+        }
+    ],
+    "require": {}
+}
