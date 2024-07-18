@@ -13,5 +13,8 @@
             "email": "danilosilveira@msn.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^7.1"
+    }
 }
